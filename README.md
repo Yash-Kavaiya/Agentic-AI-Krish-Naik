@@ -79,7 +79,6 @@ The course is organized into modules that progressively build your understanding
 ## Support
 For questions and support:
 - Course Forum: Interact with fellow learners
-- Office Hours: Regular sessions with Krish
 - Resource Library: Additional learning materials
 
 ## Contributing
